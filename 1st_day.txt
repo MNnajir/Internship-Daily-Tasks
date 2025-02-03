@@ -1,0 +1,12 @@
+Date : Feb 03, 2025
+
+Trainee : Abdul Najir Ansari
+
+Taining : Linux Fundamentals & File System
+
+
+Details: 
+- Setup WSL (Windows System Linux) 
+- Basic Linux commands
+- Permissions :- Owner, Group & Others
+- Linux File Systems 
