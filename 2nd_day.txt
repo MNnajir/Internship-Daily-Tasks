@@ -10,4 +10,4 @@ Details:
 - Includes binaries executables inside shell script
 - Conditional Statements and Loops
 - Pratical Implementation of Basic shell command
-- 
+- Executable script files
