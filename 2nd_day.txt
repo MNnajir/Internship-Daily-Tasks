@@ -1,0 +1,13 @@
+Date : Feb 04, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training : Shell Scripting
+
+
+Details: 
+- Basic Shell Scripting 
+- Includes binaries executables inside shell script
+- Conditional Statements and Loops
+- Pratical Implementation of Basic shell command
+- 
