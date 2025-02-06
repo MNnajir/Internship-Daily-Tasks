@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>item create</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Item Name Management</h1>
+        <div class="input-group">
+            <input type="text" id="itemInput" placeholder="Enter item name">
+            <button onclick="handleSubmit()" class="add-btn" id="submitBtn">add Item</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Item Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="itemList"></tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

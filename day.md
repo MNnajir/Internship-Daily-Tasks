@@ -1,3 +1,33 @@
+Date : Feb 03, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training : Linux Fundamentals & File System
+
+
+Details: 
+- Setup WSL (Windows System Linux) 
+- Basic Linux commands
+- Permissions :- Owner, Group & Others
+- Linux File Systems 
+
+-------------------------------------------
+Date : Feb 04, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training : Shell Scripting
+
+
+Details: 
+- Basic Shell Scripting 
+- Includes binaries executables inside shell script
+- Conditional Statements and Loops
+- Pratical Implementation of Basic shell command
+- Executable script files
+
+--------------------------------------------------------
+
 Date : Feb 05, 2025
 
 Trainee : Abdul Najir Ansari
@@ -64,4 +94,20 @@ echo -e "\n====================================\n" >> $LOG_FILE
   492   424 /usr/libexec/gvfsd           0.0  0.1
 
 ====================================
+--------------------------------------------------------------------------------------
 
+# Day 4:
+
+Date : Feb 06, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training :  Core JavaScript Fundamentals &  Higher Order Functions
+
+
+Details:
+- Basic javascript 
+- DOM Tree
+- Event Handling
+- Higher Order Function(map(),find(), forEach(),filter(),Reduce())
+- Simple projects use Higher-Order Functions
