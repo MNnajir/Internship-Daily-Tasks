@@ -1,0 +1,66 @@
+/* Sets the font style, max width, and centers the content. */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+/* Adds spacing between form elements. */
+.form-group {
+    margin-bottom: 15px;
+}
+/* Ensures labels appear on separate lines. */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+/* Styles the input fields and dropdowns with padding and border. */
+input, select{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+/* Styles the submit button with a green background. */
+button {
+    padding: 10px 15px;
+    background: #4CAF50;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* Changes the button color on hover. */
+button:hover {
+    background: #45a049;
+}
+/* Styles the table to take full width and removes spacing between borders. */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+/* Styles table headers and cells with padding and borders. */
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+/* Sets a background color for table headers. */
+th {
+    background-color: #f2f2f2;
+}
+/* Styles error messages in red. */
+.error {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+/* Creates a loading indicator. */
+.loading {
+    display: none;
+    margin: 20px 0;
+    text-align: center;
+    color: #666;
+}
