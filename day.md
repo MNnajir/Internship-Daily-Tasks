@@ -111,3 +111,20 @@ Details:
 - Event Handling
 - Higher Order Function(map(),find(), forEach(),filter(),Reduce())
 - Simple projects use Higher-Order Functions
+
+--------------------------------------------------------------------------------------
+
+# Day 5:
+
+Date : Feb 07, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training :  JavaScript Concept and Basic React js 
+
+
+Details:
+- Details:
+- html css js form and table handling, AJAX  implements simple project user management   
+- Learned JavaScript Call Stack, Event Loop, and Execution Order
+- Learned  react lifecycle
