@@ -124,7 +124,21 @@ Training :  JavaScript Concept and Basic React js
 
 
 Details:
-- Details:
+
 - html css js form and table handling, AJAX  implements simple project user management   
 - Learned JavaScript Call Stack, Event Loop, and Execution Order
 - Learned  react lifecycle
+
+--------------------------------------------------------------------------------
+# Day 6:
+
+Date : Feb 10, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training :  JavaScript validation Form 
+
+Details:
+- Form Validation using js 
+- learned React lifecycle Components
+- learned basic typescript
