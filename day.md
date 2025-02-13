@@ -142,3 +142,28 @@ Details:
 - Form Validation using js 
 - learned React lifecycle Components
 - learned basic typescript
+
+
+----------------------------------------------------------
+Date : Feb 12, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training : Form validation using class in js and react js setup 
+
+Details:
+- Form Validation using js
+- Shadcn Setup
+
+---------------------------------------------------------------
+Date : Feb 13, 2025
+
+Trainee : Abdul Najir Ansari
+
+Training : React js, Tailwind css and Basic Next js
+
+Details:
+- Built a Portfoilio website using react/vite and tailwind css and typescript
+- Basic Next js : SSR, SSG and App Routing
+- Next js setup 
+- 
